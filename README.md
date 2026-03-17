@@ -1,8 +1,8 @@
-# 🏥 Clinic Booking System
+#  Clinic Booking System
 
 A full-stack web application for managing patient appointments and doctor schedules efficiently.
 
-## 🚀 Features
+##  Features
 - Secure authentication using JWT
 - Role-based access (Doctor / Patient)
 - Smart appointment scheduling (no conflicts)
@@ -10,39 +10,36 @@ A full-stack web application for managing patient appointments and doctor schedu
 - Email-based account recovery
 - Fully responsive design
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - ASP.NET Core Web API
 - Entity Framework Core
 - SQL Server
 - React + Vite
 - Tailwind CSS
 
-## 📸 Screenshots
+##  Screenshots
 
-
-### 🔐 Login Page
+###  Login Page
 ![Login](screenshots/login.png)
 
-### 🔐 Register Page
+###  Register Page
 ![Login](screenshots/Register.png)
 
-### 🔐 ResetPassword Page
+###  ResetPassword Page
 ![Login](screenshots/ResetPassword.png)
 
-### 🔐 validation Page
+###  validation Page
 ![Login](screenshots/validation.png)
 
-### 🔐 addOTPNumber Page
+###  addOTPNumber Page
 ![Login](screenshots/addOTPNumber.png)
 
-### 🔐 addOTPNumber Page
-![Login](screenshots/validataddOTPNumberion.png)
 
-### 🔐 addappointment Page
+###  addappointment Page
 ![Login](screenshots/addappointment.png)
 
-### 📊 patientDashboard
+###  patientDashboard
 ![Dashboard](screenshots/patientDashboard.png)
 
-### 📊 DoctorDashboard
+###  DoctorDashboard
 ![Dashboard](screenshots/DoctorDashboard.png)
